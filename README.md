@@ -36,3 +36,15 @@ Licensed under the Apache License. See [LICENSE](/LICENSE)
 Skills Network
 
 ## <h3 align="center"> © IBM Corporation 2023. All rights reserved. <h3/>
+
+
+# SOURCES
+
+**Github : [ibm-developer-skills-network/vselh-ci-cd-final-project-template](https://github.com/ibm-developer-skills-network/vselh-ci-cd-final-project-template)**
+## Coursera links :
+
+**Course : [Continuous Integration and Continuous Delivery (CI/CD)](https://www.coursera.org/learn/continuous-integration-and-continuous-delivery-ci-cd/home/week/1)**
+
+**Module : [Week 5 : Final Project](https://www.coursera.org/learn/continuous-integration-and-continuous-delivery-ci-cd/lecture/LUIfw/final-project)**
+
+**Specialization : [IBM DevOps and Software Engineering Professional Certificate](https://www.coursera.org/professional-certificates/devops-and-software-engineering)**
