@@ -1,3 +1,5 @@
+[![CI workflow](https://github.com/fkanedev/fkctp-flask-Counters-ms-cicd/actions/workflows/workflow.yml/badge.svg)](https://github.com/fkanedev/fkctp-flask-Counters-ms-cicd/actions/workflows/workflow.yml)
+
 # CI/CD Tools and Practices Final Project Template
 
 This repository contains the template to be used for the Final Project for the Coursera course **CI/CD Tools and Practices**.
