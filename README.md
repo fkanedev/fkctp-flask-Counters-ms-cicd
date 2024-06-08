@@ -1,4 +1,8 @@
+![Python](https://img.shields.io/badge/Python-3.9-blue.svg)
+![Built with Flask](https://img.shields.io/badge/Built%20with-Flask-b5f05d.svg)
 [![CI workflow](https://github.com/fkanedev/fkctp-flask-Counters-ms-cicd/actions/workflows/workflow.yml/badge.svg)](https://github.com/fkanedev/fkctp-flask-Counters-ms-cicd/actions/workflows/workflow.yml)
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
+
 
 # CI/CD Tools and Practices Final Project Template
 
