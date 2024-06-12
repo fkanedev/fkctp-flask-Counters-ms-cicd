@@ -5,7 +5,7 @@
 
 # Counter Management Microservice Project
 
-This final project is an industry-based case study involving the development of a microservice for managing and tracking counters. I undertook this project as part of my training in the IBM DevOps and Software Engineering Professional Certificate. It highlights the practical application of Continuous Integration (CI) and Continuous Deployment (CD) skills acquired during the training. To achieve this, I used this template provided by IBM Developer Skills Network.
+This final project is an industry-based case study involving the development of a microservice for managing and tracking counters. I undertook this project as part of my training in the [IBM DevOps and Software Engineering Professional Certificate](https://www.coursera.org/professional-certificates/devops-and-software-engineering). It highlights the practical application of Continuous Integration (CI) and Continuous Deployment (CD) skills acquired during the training. To achieve this, I used this [template](https://github.com/ibm-developer-skills-network/vselh-ci-cd-final-project-template) provided by IBM Developer Skills Network.
 
 ## Table of Contents
 1. [Introduction](#introduction)
@@ -287,7 +287,7 @@ This project is licensed under the MIT License - see the [LICENSE](/LICENSE) fil
 
 ### Contact Information :
 
-- Send me email : **fkanecloudtech@gmailcom**
+- Send me email : **fkanecloudtech@gmail.com**
 - Connect with me on [LinkedIn](https://www.linkedin.com/in/your-profile/)
 - Visit my [portfolio](https://yourname.github.io) to explore my projects and services.
 
