@@ -7,6 +7,10 @@
 
 This final project is an industry-based case study involving the development of a microservice for managing and tracking counters. I undertook this project as part of my training in the [IBM DevOps and Software Engineering Professional Certificate](https://www.coursera.org/professional-certificates/devops-and-software-engineering). It highlights the practical application of Continuous Integration (CI) and Continuous Deployment (CD) skills acquired during the training. To achieve this, I used this [template](https://github.com/ibm-developer-skills-network/vselh-ci-cd-final-project-template) provided by IBM Developer Skills Network.
 
+# Topics
+
+`Python 3.8`, `Flask`, `Microservices`, `REST API`, `CI/CD`, `GitHub Actions`, `Tekton`, `OpenShift`, `Nose`, `Pylint`, `MIT License`, `DevOps`, `IBM DevOps and Software Engineering Professional Certificate`
+
 ## Table of Contents
 1. [Introduction](#introduction)
 2. [Technologies Used](#technologies-used)
